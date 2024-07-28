@@ -1,0 +1,1 @@
+query_id=AAHO_ilvAAAAAM7-KW97f8aJ&user=%7B%22id%22%3A1865023182%2C%22first_name%22%3A%22Thang%22%2C%22last_name%22%3A%22Lee%22%2C%22username%22%3A%22dua_voi_nha_chua%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1722142004&hash=a97a92ff6f79570c8e50392c629f48d235c2874b75cc016cb9536beb500a5ea0
